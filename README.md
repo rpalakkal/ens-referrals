@@ -1,4 +1,8 @@
-# ENS Referrals (R&D Prototype)
+# R&D Prototype Status
+
+This prototype is under active R&D as we explore solutions for a [proposed ENS Referral Program](https://namehashlabs.org/ens-referral-program).
+
+# ENS Referrals
 
 The `ENSReferrals` contract allows **ENS referrers** to receive self-serve referral rewards for ENS `.eth` name registrations and renewals. Referrer frontends can register for a `uint16 referrerId` to identify their referrals. They can inject this `referrerId` into their name registrations and renewals by:
 
