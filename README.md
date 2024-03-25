@@ -31,3 +31,9 @@ To set up the development environment, run:
 forge install
 npm install   # or `yarn install` or `pnpm install`
 ```
+
+## License
+
+Licensed under the MIT License, Copyright © 2023-present [NameHash Labs](https://namehashlabs.org).
+
+See [LICENSE](./LICENSE) for more information.
